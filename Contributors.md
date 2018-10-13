@@ -18,3 +18,7 @@
 - [David Valleau](https://github.com/daviev)
 
 - [Ashish Lalchandani](https://github.com/Ashish110110)
+
+- [Perin Shah](https://github.com/freeformelm)
+
+
